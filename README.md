@@ -1,6 +1,6 @@
 ### Hi, My name is Asia 👋
 
-I love learning new new things ✨✨
+I love learning new things ✨✨
 
 This is my repository :fire:
 
