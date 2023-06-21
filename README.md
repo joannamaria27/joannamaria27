@@ -8,7 +8,7 @@ ________________________________________________________________________________
 [![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/joannamaria27/fileTransferPanel)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/joannamaria27/fileTransferPanel)
 
-I know a little too
+I know too
 
 [![adobexd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/joannamaria27/gamesVRMenuInterface)
 [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
