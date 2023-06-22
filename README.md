@@ -1,5 +1,5 @@
 ### Hi, I'm [Asia](https://joannamaria27.github.io/portfolio/) 👋 
-I like to develop in web technologies - Angular ✨✨ This is my repository :fire:
+I like to develop in web technologies - Angular and .NET ✨✨ This is my repository :fire:
 
 __________________________________________________________________________________________________
 ### Skills
