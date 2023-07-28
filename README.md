@@ -3,19 +3,25 @@ I like to develop in web technologies - Angular and .NET ✨✨ This is my repos
 
 __________________________________________________________________________________________________
 ### Skills
+[![net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/joannamaria27/graphicEditor)
+[![csarp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/joannamaria27/imageProcessing)
+
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/joannamaria27/fileTransferPanel)
 [![Ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/joannamaria27/filmList)
-[![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/joannamaria27/fileTransferPanel)
+
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/joannamaria27/fileTransferPanel)
 
 I know too
 
+[![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/joannamaria27/fileTransferPanel)
+
+[![MSS](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/joannamaria27/bookProject)
+
+[![B](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/joannamaria27/bookProject)
+
 [![adobexd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/joannamaria27/gamesVRMenuInterface)
 [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
-<br>
-[![csarp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/joannamaria27/imageProcessing)
-[![net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/joannamaria27/graphicEditor)
-<br>
+
 [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/joannamaria27/deamon)
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-] -->
